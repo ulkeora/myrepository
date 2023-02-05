@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85cfc4af-e139-4043-b95f-9dfdfeb0dd56" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inkap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritance.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,23 +36,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Mappings&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
   }
-}]]></component>
-  <component name="RunManager" selected="Application.inheritance">
+}</component>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="myjava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="calculator" />
       <module name="myjava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -66,8 +79,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.inheritance" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.calculator" />
+        <item itemvalue="Application.inheritance" />
       </list>
     </recent_temporary>
   </component>
@@ -83,7 +97,9 @@
       <workItem from="1675163209374" duration="4136000" />
       <workItem from="1675247845713" duration="1929000" />
       <workItem from="1675437374687" duration="2416000" />
-      <workItem from="1675478261120" duration="1917000" />
+      <workItem from="1675478261120" duration="7397000" />
+      <workItem from="1675527438295" duration="763000" />
+      <workItem from="1675578999200" duration="3332000" />
     </task>
     <servers />
   </component>
