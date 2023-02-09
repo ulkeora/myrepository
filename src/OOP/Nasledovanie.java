@@ -1,6 +1,8 @@
+package OOP;
+
 public class animal {
      protected String name;
-     protected int age;
+     private int age;
      public animal(String name,int age){
           this.name = name;
           this.age = age;
