@@ -6,7 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="85cfc4af-e139-4043-b95f-9dfdfeb0dd56" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Abstrakt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Polimorfizm.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Nasledovanie.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/calculator.java" beforeDir="false" />
@@ -33,7 +36,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2KzKyhOtQm9V0qSHBb4pvR36189" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -119,7 +124,7 @@
       <workItem from="1675608950714" duration="370000" />
       <workItem from="1675694458432" duration="1183000" />
       <workItem from="1675764551802" duration="7596000" />
-      <workItem from="1675934205199" duration="1211000" />
+      <workItem from="1675934205199" duration="1712000" />
     </task>
     <servers />
   </component>
