@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85cfc4af-e139-4043-b95f-9dfdfeb0dd56" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Abstrakt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Polimorfizm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Nasledovanie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inheritance.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inkap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/inkap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/master.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8477a8ac-3e9d-48ef-9858-c1ea0906abbf.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/8477a8ac-3e9d-48ef-9858-c1ea0906abbf.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +20,15 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/.gitignore" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -99,6 +97,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.inheritance" />
         <item itemvalue="Application.dead" />

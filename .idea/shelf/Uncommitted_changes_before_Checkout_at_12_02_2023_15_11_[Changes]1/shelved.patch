@@ -1,0 +1,82 @@
+Index: src/OOP/Abstrakt.java
+===================================================================
+diff --git a/src/OOP/Abstrakt.java b/src/OOP/Abstrakt.java
+deleted file mode 100644
+--- a/src/OOP/Abstrakt.java	
++++ /dev/null	
+@@ -1,4 +0,0 @@
+-package OOP;
+-
+-public class Abstrakt {
+-}
+Index: src/OOP/Nasledovanie.java
+===================================================================
+diff --git a/src/OOP/Nasledovanie.java b/src/OOP/Nasledovanie.java
+deleted file mode 100644
+--- a/src/OOP/Nasledovanie.java	
++++ /dev/null	
+@@ -1,35 +0,0 @@
+-package OOP;
+-
+-public class animal {
+-     protected String name;
+-     private int age;
+-     public animal(String name,int age){
+-          this.name = name;
+-          this.age = age;
+-     }
+-     public void eat(){
+-          System.out.println(name + " " + "eating");
+-     }
+-
+-  public void Walk(){
+-       System.out.println(name + " " + "walking");
+-  }
+-}
+-class dog extends animal {
+-     private String breed;
+-     public dog(String name, int age,String breed) {
+-          super(name, age);
+-          this.breed = breed;
+-     }
+-     public void bark () {
+-          System.out.println(name + " " + "barking");
+-     }
+-
+-
+-
+-     }
+-
+-
+-
+-
+-
+Index: src/OOP/Polimorfizm.java
+===================================================================
+diff --git a/src/OOP/Polimorfizm.java b/src/OOP/Polimorfizm.java
+deleted file mode 100644
+--- a/src/OOP/Polimorfizm.java	
++++ /dev/null	
+@@ -1,4 +0,0 @@
+-package OOP;
+-
+-public class Polimorfizm {
+-}
+Index: src/OOP/inkap.java
+===================================================================
+diff --git a/src/OOP/inkap.java b/src/OOP/inkap.java
+deleted file mode 100644
+--- a/src/OOP/inkap.java	
++++ /dev/null	
+@@ -1,10 +0,0 @@
+-package OOP;
+-public class inkap {
+-    private int a  ,b ;
+-    public int showresult(){
+-       return a;
+-
+-        }
+-
+-
+-    }
+\ No newline at end of file
